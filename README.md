@@ -1,1 +1,1 @@
-# Vanilla JS Transitions
+# Animation transitions inspired by Vue and Alpine
